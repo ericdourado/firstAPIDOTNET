@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eric\\Documents\\Desktop\\grad_fiap\\FIAP_PrimeiraApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB59D81-DDDB-409C-9D51-6A6E77970E4D}|FIAP_PrimeiraApi\\FIAP_PrimeiraApi.csproj|c:\\users\\eric\\documents\\desktop\\grad_fiap\\fiap_primeiraapi\\fiap_primeiraapi\\controllers\\atendimentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB59D81-DDDB-409C-9D51-6A6E77970E4D}|FIAP_PrimeiraApi\\FIAP_PrimeiraApi.csproj|solutionrelative:fiap_primeiraapi\\controllers\\atendimentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB59D81-DDDB-409C-9D51-6A6E77970E4D}|FIAP_PrimeiraApi\\FIAP_PrimeiraApi.csproj|c:\\users\\eric\\documents\\desktop\\grad_fiap\\fiap_primeiraapi\\fiap_primeiraapi\\repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB59D81-DDDB-409C-9D51-6A6E77970E4D}|FIAP_PrimeiraApi\\FIAP_PrimeiraApi.csproj|solutionrelative:fiap_primeiraapi\\repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB59D81-DDDB-409C-9D51-6A6E77970E4D}|FIAP_PrimeiraApi\\FIAP_PrimeiraApi.csproj|c:\\users\\eric\\documents\\desktop\\grad_fiap\\fiap_primeiraapi\\fiap_primeiraapi\\interfaces\\ialunocadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB59D81-DDDB-409C-9D51-6A6E77970E4D}|FIAP_PrimeiraApi\\FIAP_PrimeiraApi.csproj|solutionrelative:fiap_primeiraapi\\interfaces\\ialunocadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAlunoCadastro.cs",
+              "DocumentMoniker": "C:\\Users\\Eric\\Documents\\Desktop\\grad_fiap\\FIAP_PrimeiraApi\\FIAP_PrimeiraApi\\Interfaces\\IAlunoCadastro.cs",
+              "RelativeDocumentMoniker": "FIAP_PrimeiraApi\\Interfaces\\IAlunoCadastro.cs",
+              "ToolTip": "C:\\Users\\Eric\\Documents\\Desktop\\grad_fiap\\FIAP_PrimeiraApi\\FIAP_PrimeiraApi\\Interfaces\\IAlunoCadastro.cs",
+              "RelativeToolTip": "FIAP_PrimeiraApi\\Interfaces\\IAlunoCadastro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:20:40.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AtendimentoController.cs",
+              "DocumentMoniker": "C:\\Users\\Eric\\Documents\\Desktop\\grad_fiap\\FIAP_PrimeiraApi\\FIAP_PrimeiraApi\\Controllers\\AtendimentoController.cs",
+              "RelativeDocumentMoniker": "FIAP_PrimeiraApi\\Controllers\\AtendimentoController.cs",
+              "ToolTip": "C:\\Users\\Eric\\Documents\\Desktop\\grad_fiap\\FIAP_PrimeiraApi\\FIAP_PrimeiraApi\\Controllers\\AtendimentoController.cs",
+              "RelativeToolTip": "FIAP_PrimeiraApi\\Controllers\\AtendimentoController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:37:32.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Eric\\Documents\\Desktop\\grad_fiap\\FIAP_PrimeiraApi\\FIAP_PrimeiraApi\\Repository\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "FIAP_PrimeiraApi\\Repository\\AlunoRepository.cs",
+              "ToolTip": "C:\\Users\\Eric\\Documents\\Desktop\\grad_fiap\\FIAP_PrimeiraApi\\FIAP_PrimeiraApi\\Repository\\AlunoRepository.cs",
+              "RelativeToolTip": "FIAP_PrimeiraApi\\Repository\\AlunoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:29:43.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
